@@ -4,7 +4,7 @@ a flappy-bird game using python
 ## PreView
 - welcome
 
-![image](https://github.com/Dz97313/F1.pnglappy-Bird-Python/blob/master/screenshoot/1.png)
+![image](https://github.com/Dz97313/Flappy-Bird-Python/blob/master/screenshoot/1.png)
 
 - main game
 
