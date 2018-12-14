@@ -3,7 +3,7 @@ a flappy-bird game using python
 
 ## PreView
 - welcome
-![image](https://github.com/Dz97313/Flappy-Bird-Python/blob/master/sceenshoot/)
+![image](https://github.com/Dz97313/Flappy-Bird-Python/blob/master/sceenshoot/1.png)
 - main game1.png
 ![image](https://github.com/Dz97313/Flappy-Bird-Python/blob/master/sceenshoot/2.png)
 
