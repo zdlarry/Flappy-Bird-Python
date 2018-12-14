@@ -3,9 +3,12 @@ a flappy-bird game using python
 
 ## PreView
 - welcome
-![image](https://github.com/Dz97313/Flappy-Bird-Python/blob/master/sceenshoot/1.png)
-- main game1.png
-![image](https://github.com/Dz97313/Flappy-Bird-Python/blob/master/sceenshoot/2.png)
+
+![image](https://github.com/Dz97313/F1.pnglappy-Bird-Python/blob/master/screenshoot/1.png)
+
+- main game
+
+![image](https://github.com/Dz97313/Flappy-Bird-Python/blob/master/screenshoot/2.png)
 
 ## USE
 - install pygame with pip or other utils
